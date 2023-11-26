@@ -1,0 +1,7 @@
+1. Mr Finance:
+Test de securitate: verificarea performantei site-ului in cazul unui atac cibernetic 
+Test de viteza: verificarea timpului necesar pentru efectuarea unei tranzactii/investitii
+Test de interfata: verificarea aspectelor ce tin de interfata site-ului ( sa fie usor de inteles si de navifat) 
+
+Aceste tipuri de teste sunt necesare considerand ca o aplicatie cu un sistem de securitate redus, timp pentru tranzactii inefcient
+si o interfata greu de inteles, va determina o descrestere progresiva a utilizatorilor.
