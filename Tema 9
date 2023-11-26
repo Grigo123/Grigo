@@ -1,0 +1,25 @@
+1. $4.800 - $14.000  sub 22%
+   $5.200  -  $5.500 sub 10%
+   $28.001 - $35.000  sub 40%
+   $5.800  - $32.000  sub 22%
+
+  Raspuns: d)
+
+2. Presupun ca valoaraea minima a vechimii angajatului este 0 ani.
+  Categoriile sunt:
+    1. [ 0 - 2 ] 
+    2. ( 2 - 5 ]
+    3. ( 5 - 10 ]
+    4.  [ 10 -   ) (mai mult de 10 ani)
+   Deci, 4 cazuri de verificat + 1 caz suplimentar ( pentru a se evita erori) = 5.
+   Raspuns: 5 
+
+3. Fiind mereu necesar sa avem cel putin un test pentru fiecare dimensiune de ecran, raspunsul este c)
+
+4. Clasa 1:  [ 0 - 999 ]
+   Clasa 2:  [ 1000 - 2000 ] 
+   Clasa 3:  [ 2000 - 4000 ] 
+   Clasa 4:  [ 4000 - 6000 ]
+   Clasa 5:  Peste 6000 
+
+5. Cel putin un test pentru fiecare nota ( 6 ) + 1 suplimentar = 7 
